@@ -1,5 +1,5 @@
 {
-  "name": "my-project",
+  "name": "talletgithubactions",
   "version": "1.0.0",
   "description": "",
   "main": "sum.js",
@@ -12,5 +12,4 @@
   "devDependencies": {
     "jest": "^27.4.5"
   }
- }
- 
+}
